@@ -2,12 +2,21 @@
 
 
 #Lista Enlazada (Simple)
-
-```c++
-	Lista *list = new Lista(); 
-   list->inserta(5);
-   list->inserta(2); 
-   mia->despliega();
-   mia->elimina(2);
-   mia->despliega();     
+Simple implementación de una lista enlazada (Linked List) que guarda numeros enteros.
+##Para crear una lista nueva:
+´´´c++
+Lista *list = new Lista();
 ```
+##Para Insertar un elemento
+´´´c++
+list->inserta(8);
+´´´
+##Para mostrar por patalla todos los elementos de la lista
+´´´c++
+list->despliega();
+´´´
+
+##Para eliminar un elemento de la lista
+´´´c++
+list->elimina(8);
+´´´
