@@ -6,23 +6,23 @@ Simple implementación de una lista enlazada (Linked List) que guarda numeros en
 
 ##Para crear una lista nueva:
 
-´´´c++
+```c++
 	Lista *list = new Lista();
 ```
 
 ##Para Insertar un elemento
 
-´´´c++
+```c++
 	list->inserta(8);
-´´´
+```
 ##Para mostrar por patalla todos los elementos de la lista
 
-´´´c++
+```c++
 	list->despliega();
-´´´
+```
 
 ##Para eliminar un elemento de la lista
 
-´´´c++
+```c++
 	list->elimina(8);
-´´´
+```
