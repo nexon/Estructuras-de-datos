@@ -5,8 +5,8 @@
 
 /* ---------------------------------------------------------------------------
 **
-** lista.h
-** Implementacion de una lista enlazada (Ordenada)
+** Pila.h
+** Implementacion de una Pila (Stack)
 **
 ** Author: Alberto Lagos Toro <alberto.lagos@gmail.com>
 ** -------------------------------------------------------------------------*/
